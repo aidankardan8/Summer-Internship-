@@ -1,2 +1,2 @@
-# Summer-Internship-
-Accumulation of the Work done over the course of my internship with NASA
+# phyto-voc
+# This repository represents some of the work completed over the course of the summer 
