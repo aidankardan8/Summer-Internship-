@@ -14,4 +14,4 @@ From this graph, it is evident that the most clear satellite images(lowest propo
 
 **Small Sample.ipynb**- Uses the files stored in the "Aqua-Modis" folder(contains netcdf files for the date range: April 22nd, 2016 +/- 3 days) for the purpose of learning how to read and extract information from netCDF files to be able to create 'SI Chlorophyll Graph and Cloud Graph'. The sample size for this graph was too small(7) to have results considered statistically meaningful.
 
-Thank you for visiting my page! If you have any questions or comments, please feel free to reach me at a.a.ashrafi@wustl.edu!
+Thank you for visiting my page! If you have any questions or comments, please feel free to reach me at aidan.kardan@wustl.edu!
